@@ -14,5 +14,6 @@
     "idf.portWin": "COM5",
     "idf.pythonBinPathWin": "C:\\esp32\\.espressif\\python_env\\idf5.1_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\esp32\\.espressif",
-    "cmake.options.statusBarVisibility": "visible"
+    "cmake.options.statusBarVisibility": "visible",
+    "idf.flashType": "UART"
 }
