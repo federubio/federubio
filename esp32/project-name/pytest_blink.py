@@ -6,7 +6,8 @@ import os
 
 import pytest
 from pytest_embedded_idf.dut import IdfDut
-
+from pytest_embedded_serial.dut import SerialDut
+from pytest_embedded_serial_esp import EspSerial
 
 @pytest.mark.supported_targets
 @pytest.mark.generic
